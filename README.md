@@ -1,6 +1,8 @@
 # QR Code Component
 
-![QR Code Component Preview](./images/Screenshot 2023-07-26 185629.png)
+<div align="center">
+  <img src="Screenshot 2023-07-26 185629.png" alt="Project Image">
+</div>
 
 ## Table of Contents
 
