@@ -30,7 +30,7 @@ The project was created as part of the [Frontend Mentor](https://www.frontendmen
 
 ## Demo
 
-You can see a live demo of the QR Code Component [here](https://your-demo-url.com).
+You can see a live demo of the QR Code Component [here]([https://your-demo-url.com](https://gaurav23v.github.io/QR_Code_Component/)).
 
 ## Installation
 
