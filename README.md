@@ -1,6 +1,6 @@
 # QR Code Component
 
-![QR Code Component Preview](Screenshot 2023-07-26 185629.png)
+![QR Code Component Preview](./images/preview.png)
 
 ## Table of Contents
 
@@ -58,5 +58,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 The QR Code Component project is open-source and available under the [MIT License](LICENSE).
+
 
 
