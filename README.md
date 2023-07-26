@@ -1,6 +1,6 @@
 # QR Code Component
 
-![QR Code Component Preview](./images/preview.png)
+![QR Code Component Preview](Screenshot 2023-07-26 185629.png)
 
 ## Table of Contents
 
